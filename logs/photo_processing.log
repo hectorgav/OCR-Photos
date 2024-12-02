@@ -207,3 +207,19 @@ Job 240416-01 has only 1 photo(s)
 2024-11-22 23:43:51,021 - INFO - Processed 0 photos into 0 job folders.
 
 2024-11-22 23:43:51,022 - INFO - Photo processing completed
+2024-12-02 15:23:41,352 - INFO - Starting photo processing
+2024-12-02 15:24:28,156 - WARNING - Invalid or missing job number for IMG_9913.JPG
+2024-12-02 15:25:39,648 - WARNING - Invalid or missing job number for IMG_9916.JPG
+2024-12-02 15:26:47,256 - WARNING - Invalid or missing job number for IMG_9919.JPG
+2024-12-02 15:28:04,884 - WARNING - Invalid or missing job number for IMG_9922.JPG
+2024-12-02 15:28:33,339 - WARNING - Invalid or missing job number for IMG_9923.JPG
+2024-12-02 15:29:27,735 - WARNING - Invalid or missing job number for IMG_9925.JPG
+2024-12-02 15:30:42,884 - WARNING - Invalid or missing job number for IMG_9928.JPG
+2024-12-02 15:31:34,407 - WARNING - Invalid or missing job number for IMG_9930.JPG
+2024-12-02 15:31:56,675 - WARNING - Invalid or missing job number for IMG_9931.JPG
+2024-12-02 15:37:04,489 - INFO - Starting photo processing
+2024-12-02 15:37:28,320 - WARNING - Invalid or missing job number for IMG_9913.JPG
+2024-12-02 15:37:51,590 - WARNING - Invalid or missing job number for IMG_9916.JPG
+2024-12-02 15:38:01,645 - INFO - Processed 4 photos into 2 job folders.
+
+2024-12-02 15:38:01,645 - INFO - Photo processing completed

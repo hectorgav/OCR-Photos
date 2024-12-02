@@ -130,5 +130,6 @@ def main():
         logging.error(f"An error occurred during processing: {str(e)}")
     logging.info("Photo processing completed")
 
+
 if __name__ == "__main__":
     main()
