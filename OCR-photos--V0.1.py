@@ -23,25 +23,29 @@ def read_and_sort_images(directory: str) -> List[str]:
 
 
 def extract_job_number(image_path: str) -> str:
-    """Extract job number from image using OCR with improved preprocessing and regex."""
     try:
-        # Read and preprocess the image
         image = cv2.imread(image_path)
 
-        # Perform OCR on the adjusted image
-        result = reader.readtext(image, detail=0)
-        text = ' '.join(result)
+        # Apply image preprocessing
+        gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+        thresh = cv2.threshold(gray, 0, 255, cv2.THRESH_BINARY + cv2.THRESH_OTSU)[1]
 
-        # Multiple regex pattern for more robust job number extraction
+        # Perform OCR on both the original and preprocessed images
+        result_original = reader.readtext(image, detail=0)
+        result_thresh = reader.readtext(thresh, detail=0)
+
+        text = ' '.join(result_original + result_thresh)
+
         patterns = [
             r'\b\d{6}\s*-\s*\d{2}\b',
-            r'(?:Job:\s*)?(\d{6}-\d{2})'
+            r'(?:Job:\s*)?(\d{6}-\d{2})',
+            r'Job:\s*(\d{6}-\d{2})'
         ]
+
         for pattern in patterns:
             match = re.search(pattern, text)
             if match:
                 return match.group(0).replace(' ', '')
-
         return ''
     except Exception as e:
         logging.error(f"OCR error for {image_path}: {str(e)}")
@@ -66,26 +70,54 @@ def group_photos_by_job_numbers(images: List[str]) -> Dict[str, List[str]]:
     return groups
 
 
-def organize_photos_by_job(groups: Dict[str, List[str]]) -> None:
-    """Organize photos into job folders, appending to existing folders if they exist."""
+def organize_photos_by_job(images: List[str]) -> Dict[str, List[str]]:
+    groups = {}
+    current_job = None
+    current_group = []
+
+    for image in images:
+        job_number = extract_job_number(os.path.join(SOURCE_DIR, image))
+
+        if job_number:
+            if current_job and job_number != current_job:
+                # Save the previous group
+                groups[current_job] = current_group
+                current_group = []
+            current_job = job_number
+
+        if current_job:
+            current_group.append(image)
+        else:
+            logging.warning(f"No job number detected for {image}")
+
+    # Save the last group
+    if current_job:
+        groups[current_job] = current_group
+
+    # Move photos to their respective folders
     for job_number, photos in groups.items():
         job_folder = os.path.join(JOB_DIR, job_number)
         os.makedirs(job_folder, exist_ok=True)
+
         for photo in photos:
             try:
                 source_path = os.path.join(SOURCE_DIR, photo)
                 destination_path = os.path.join(job_folder, photo)
+
                 if os.path.exists(destination_path):
-                    # If the file already exists, append a number to the filename
                     base, extension = os.path.splitext(photo)
                     counter = 1
                     while os.path.exists(destination_path):
                         new_filename = f"{base}_{counter}{extension}"
                         destination_path = os.path.join(job_folder, new_filename)
                         counter += 1
+
                 shutil.move(source_path, destination_path)
+                logging.info(f"Moved {photo} to {job_folder}")
             except Exception as e:
                 logging.error(f"Error moving {photo} to {job_folder}: {str(e)}")
+
+    return groups
 
 
 def validate_photo_groupings(groups: Dict[str, List[str]]) -> List[str]:
