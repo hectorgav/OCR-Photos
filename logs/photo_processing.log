@@ -655,3 +655,768 @@ Job 240331-35 has only 1 photo(s)
 2024-12-05 15:28:01,027 - INFO - Job number found in C:\Photos-repo\testing\test-14\PXL_20241205_202449343.jpg: 240869-07
 2024-12-05 15:28:01,030 - INFO - Processed 4 photos for job number 240869-07
 2024-12-05 15:28:01,030 - INFO - Photo processing completed.
+2024-12-05 16:38:59,711 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-12-05 16:39:01,699 - INFO - Preprocessing Image: C:\Photos-repo\testing\test-15\IMG_7095.JPG
+2024-12-05 16:39:27,814 - INFO - Job number found: 240240-02
+2024-12-05 16:39:27,830 - INFO - Preprocessing Image: C:\Photos-repo\testing\test-15\IMG_7096.JPG
+2024-12-05 16:39:50,456 - WARNING - No job number found in image.
+2024-12-05 16:39:50,456 - INFO - Preprocessing Image: C:\Photos-repo\testing\test-15\IMG_7106.JPG
+2024-12-05 16:40:10,621 - WARNING - No job number found in image.
+2024-12-05 16:40:10,621 - INFO - Preprocessing Image: C:\Photos-repo\testing\test-15\IMG_7107.JPG
+2024-12-05 16:40:32,088 - INFO - Job number found: 240240-02
+2024-12-05 16:40:32,088 - INFO - Preprocessing Image: C:\Photos-repo\testing\test-15\IMG_7109.JPG
+2024-12-05 16:40:52,019 - INFO - Job number found: 240200-02
+2024-12-05 16:40:52,019 - INFO - Preprocessing Image: C:\Photos-repo\testing\test-15\IMG_7110.JPG
+2024-12-05 16:41:11,563 - WARNING - No job number found in image.
+2024-12-05 16:41:11,563 - INFO - Preprocessing Image: C:\Photos-repo\testing\test-15\IMG_7131.JPG
+2024-12-05 16:41:33,232 - WARNING - No job number found in image.
+2024-12-05 16:41:33,232 - INFO - Preprocessing Image: C:\Photos-repo\testing\test-15\IMG_7132.JPG
+2024-12-05 16:41:53,058 - INFO - Job number found: 240208-02
+2024-12-05 16:41:53,058 - INFO - Preprocessing Image: C:\Photos-repo\testing\test-15\IMG_7151.JPG
+2024-12-05 16:42:13,243 - INFO - Job number found: 220793-10
+2024-12-05 16:42:13,243 - INFO - Preprocessing Image: C:\Photos-repo\testing\test-15\IMG_7152.JPG
+2024-12-05 16:42:33,446 - WARNING - No job number found in image.
+2024-12-05 16:42:33,446 - INFO - Preprocessing Image: C:\Photos-repo\testing\test-15\IMG_7192.JPG
+2024-12-05 16:42:54,037 - WARNING - No job number found in image.
+2024-12-05 16:42:54,037 - INFO - Preprocessing Image: C:\Photos-repo\testing\test-15\IMG_7193.JPG
+2024-12-05 16:43:14,253 - INFO - Job number found: 220793-10
+2024-12-05 16:43:14,253 - INFO - Preprocessing Image: C:\Photos-repo\testing\test-15\IMG_7212.JPG
+2024-12-05 16:43:35,237 - INFO - Job number found: 240269-11
+2024-12-05 16:43:35,237 - INFO - Preprocessing Image: C:\Photos-repo\testing\test-15\IMG_7213.JPG
+2024-12-05 16:43:56,681 - WARNING - No job number found in image.
+2024-12-05 16:43:56,681 - INFO - Preprocessing Image: C:\Photos-repo\testing\test-15\IMG_7214.JPG
+2024-12-05 16:44:19,400 - WARNING - No job number found in image.
+2024-12-05 16:44:19,400 - INFO - Preprocessing Image: C:\Photos-repo\testing\test-15\IMG_7232.JPG
+2024-12-05 16:44:40,882 - INFO - Job number found: 240269-11
+2024-12-05 16:44:40,882 - INFO - Preprocessing Image: C:\Photos-repo\testing\test-15\IMG_7267.JPG
+2024-12-05 16:45:01,772 - INFO - Job number found: 240269-13
+2024-12-05 16:45:01,772 - INFO - Preprocessing Image: C:\Photos-repo\testing\test-15\IMG_7268.JPG
+2024-12-05 16:45:23,864 - WARNING - No job number found in image.
+2024-12-05 16:45:23,864 - INFO - Preprocessing Image: C:\Photos-repo\testing\test-15\IMG_7287.JPG
+2024-12-05 16:45:46,052 - INFO - Job number found: 240269-13
+2024-12-05 16:45:46,052 - INFO - Preprocessing Image: C:\Photos-repo\testing\test-15\IMG_7436.JPG
+2024-12-05 16:46:08,052 - INFO - Job number found: 230485-04
+2024-12-05 16:46:08,052 - INFO - Preprocessing Image: C:\Photos-repo\testing\test-15\IMG_7437.JPG
+2024-12-05 16:46:29,569 - WARNING - No job number found in image.
+2024-12-05 16:46:29,569 - INFO - Preprocessing Image: C:\Photos-repo\testing\test-15\IMG_7458.JPG
+2024-12-05 16:46:51,883 - INFO - Job number found: 230405-04
+2024-12-05 16:46:51,883 - INFO - Preprocessing Image: C:\Photos-repo\testing\test-15\IMG_7462.JPG
+2024-12-05 16:47:14,320 - INFO - Job number found: 240269-08
+2024-12-05 16:47:14,320 - INFO - Preprocessing Image: C:\Photos-repo\testing\test-15\IMG_7463.JPG
+2024-12-05 16:47:39,929 - WARNING - No job number found in image.
+2024-12-05 16:47:39,929 - INFO - Preprocessing Image: C:\Photos-repo\testing\test-15\IMG_7485.JPG
+2024-12-05 16:48:06,432 - INFO - Job number found: 240269-00
+2024-12-05 16:48:06,432 - INFO - Preprocessing Image: C:\Photos-repo\testing\test-15\IMG_7488.JPG
+2024-12-05 16:48:34,449 - INFO - Job number found: 240066-04
+2024-12-05 16:48:34,449 - INFO - Preprocessing Image: C:\Photos-repo\testing\test-15\IMG_7489.JPG
+2024-12-05 16:49:00,035 - WARNING - No job number found in image.
+2024-12-05 16:49:00,035 - INFO - Preprocessing Image: C:\Photos-repo\testing\test-15\IMG_7490.JPG
+2024-12-05 16:49:25,796 - WARNING - No job number found in image.
+2024-12-05 16:49:25,796 - INFO - Preprocessing Image: C:\Photos-repo\testing\test-15\IMG_7526.JPG
+2024-12-05 16:49:57,607 - INFO - Job number found: 240066-04
+2024-12-05 16:49:57,607 - INFO - Preprocessing Image: C:\Photos-repo\testing\test-15\PXL_20241205_202435186.jpg
+2024-12-05 16:50:16,232 - INFO - Job number found: 240869-07
+2024-12-05 16:50:16,232 - INFO - Preprocessing Image: C:\Photos-repo\testing\test-15\PXL_20241205_202439330.jpg
+2024-12-05 16:50:34,087 - WARNING - No job number found in image.
+2024-12-05 16:50:34,087 - INFO - Preprocessing Image: C:\Photos-repo\testing\test-15\PXL_20241205_202442449.jpg
+2024-12-05 16:50:53,695 - WARNING - No job number found in image.
+2024-12-05 16:50:53,695 - INFO - Preprocessing Image: C:\Photos-repo\testing\test-15\PXL_20241205_202449343.jpg
+2024-12-05 16:51:13,016 - INFO - Job number found: 240869-07
+2024-12-05 16:51:13,032 - INFO - Processed 4 photos for job number 240240-02
+2024-12-05 16:51:13,032 - INFO - Processed 3 photos for job number 240200-02
+2024-12-05 16:51:13,032 - INFO - Processed 1 photos for job number 240208-02
+2024-12-05 16:51:13,032 - INFO - Processed 4 photos for job number 220793-10
+2024-12-05 16:51:13,032 - INFO - Processed 4 photos for job number 240269-11
+2024-12-05 16:51:13,032 - INFO - Processed 3 photos for job number 240269-13
+2024-12-05 16:51:13,047 - INFO - Processed 2 photos for job number 230485-04
+2024-12-05 16:51:13,047 - INFO - Processed 1 photos for job number 230405-04
+2024-12-05 16:51:13,047 - INFO - Processed 2 photos for job number 240269-08
+2024-12-05 16:51:13,047 - INFO - Processed 1 photos for job number 240269-00
+2024-12-05 16:51:13,047 - INFO - Processed 4 photos for job number 240066-04
+2024-12-05 16:51:13,047 - INFO - Processed 4 photos for job number 240869-07
+2024-12-05 16:51:13,047 - INFO - Photo processing completed.
+2024-12-09 13:39:25,086 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-12-09 13:39:43,448 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7033.JPG
+2024-12-09 13:39:43,452 - WARNING - No job number detected for IMG_7033.JPG
+2024-12-09 13:39:43,454 - INFO - Photo processing completed.
+2024-12-09 13:43:34,267 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-12-09 13:43:49,566 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7033.JPG
+2024-12-09 13:43:49,567 - WARNING - No job number detected for IMG_7033.JPG
+2024-12-09 13:44:03,871 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7034.JPG
+2024-12-09 13:44:03,874 - WARNING - No job number detected for IMG_7034.JPG
+2024-12-09 13:45:39,635 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-12-09 13:45:53,910 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7033.JPG: 240066-01
+2024-12-09 13:46:07,626 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7034.JPG
+2024-12-09 13:46:24,020 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7035.JPG: 35210220
+2024-12-09 13:46:42,185 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7036.JPG
+2024-12-09 13:47:00,074 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7038.JPG: 07120111
+2024-12-09 13:47:19,979 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7039.JPG: 00442714
+2024-12-09 13:47:35,566 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7040.JPG
+2024-12-09 13:47:54,385 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7041.JPG
+2024-12-09 13:48:11,666 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7042.JPG
+2024-12-09 13:48:28,737 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7043.JPG
+2024-12-09 13:48:46,789 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7044.JPG
+2024-12-09 13:49:02,453 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7045.JPG
+2024-12-09 13:49:17,973 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7046.JPG
+2024-12-09 13:49:35,077 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7047.JPG: 75240064
+2024-12-09 13:49:51,548 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7048.JPG
+2024-12-09 13:50:07,934 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7049.JPG
+2024-12-09 13:50:24,503 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7050.JPG
+2024-12-09 13:50:41,201 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7051.JPG
+2024-12-09 13:50:57,940 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7052.JPG
+2024-12-09 13:51:14,486 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7053.JPG
+2024-12-09 13:51:30,812 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7054.JPG
+2024-12-09 13:51:47,721 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7055.JPG
+2024-12-09 13:52:04,374 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7056.JPG
+2024-12-09 13:52:21,458 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7057.JPG
+2024-12-09 13:52:38,913 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7058.JPG
+2024-12-09 13:52:57,587 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7059.JPG
+2024-12-09 13:53:14,791 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7060.JPG
+2024-12-09 13:53:32,963 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7061.JPG
+2024-12-09 13:53:51,103 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7063-A.JPG: 240066-01
+2024-12-09 13:54:08,875 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7063.JPG
+2024-12-09 13:54:26,309 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7064.JPG: 230660-02
+2024-12-09 13:54:45,886 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7065.JPG
+2024-12-09 13:55:04,381 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7066.JPG: 230660-02
+2024-12-09 13:55:04,400 - INFO - Processed 30 photos for job number 240066-01
+2024-12-09 13:55:04,402 - INFO - Processed 3 photos for job number 230660-02
+2024-12-09 13:55:04,402 - INFO - Photo processing completed.
+2024-12-09 13:58:40,424 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-12-09 13:58:56,150 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7067.JPG: 240309-01
+2024-12-09 13:59:09,509 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7068.JPG
+2024-12-09 13:59:24,984 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7069.JPG
+2024-12-09 13:59:41,494 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7070.JPG
+2024-12-09 13:59:58,095 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7071.JPG
+2024-12-09 14:00:13,231 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7073.JPG
+2024-12-09 14:00:28,964 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7074.JPG
+2024-12-09 14:00:44,442 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7075.JPG
+2024-12-09 14:01:00,191 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7076.JPG
+2024-12-09 14:01:15,326 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7077.JPG
+2024-12-09 14:01:32,956 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7078.JPG: 171019-20
+2024-12-09 14:01:50,252 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7079.JPG: 84601010
+2024-12-09 14:02:05,502 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7080.JPG
+2024-12-09 14:02:23,179 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7081.JPG
+2024-12-09 14:02:40,010 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7082.JPG
+2024-12-09 14:02:57,725 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7083.JPG
+2024-12-09 14:03:15,086 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7084.JPG
+2024-12-09 14:03:31,843 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7085.JPG
+2024-12-09 14:03:48,438 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7086.JPG
+2024-12-09 14:04:04,992 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7087.JPG
+2024-12-09 14:04:22,091 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7088.JPG
+2024-12-09 14:04:38,751 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7089.JPG
+2024-12-09 14:04:55,922 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7090.JPG
+2024-12-09 14:05:12,560 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7091.JPG
+2024-12-09 14:05:29,531 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7092.JPG
+2024-12-09 14:05:45,930 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7093.JPG
+2024-12-09 14:06:04,585 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7094.JPG: 240309-01
+2024-12-09 14:06:22,992 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7095.JPG: 240240-02
+2024-12-09 14:06:43,129 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7096.JPG
+2024-12-09 14:07:02,721 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7097.JPG: 11211600
+2024-12-09 14:07:23,297 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7098.JPG
+2024-12-09 14:07:42,795 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7099.JPG
+2024-12-09 14:08:03,177 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7100.JPG
+2024-12-09 14:08:23,843 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7101.JPG
+2024-12-09 14:08:45,766 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7102.JPG
+2024-12-09 14:09:06,897 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7103.JPG
+2024-12-09 14:09:28,374 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7104.JPG
+2024-12-09 14:09:49,123 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7106.JPG
+2024-12-09 14:10:10,199 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7107.JPG: 240240-02
+2024-12-09 14:10:31,139 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7109.JPG: 240200-02
+2024-12-09 14:10:54,613 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7110.JPG
+2024-12-09 14:11:20,900 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7112.JPG
+2024-12-09 14:11:42,884 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7113.JPG: 57575661
+2024-12-09 14:12:04,715 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7114.JPG: 54251553
+2024-12-09 14:12:31,982 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7115.JPG
+2024-12-09 14:12:58,923 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7116.JPG
+2024-12-09 14:13:22,284 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7117.JPG: 97477077
+2024-12-09 14:13:50,156 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7118.JPG
+2024-12-09 14:14:15,658 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7119.JPG: 00773540
+2024-12-09 14:14:44,410 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7120.JPG: 00110711
+2024-12-09 14:15:08,613 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7121.JPG
+2024-12-09 14:15:35,897 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7122.JPG
+2024-12-09 14:16:00,157 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7123.JPG
+2024-12-09 14:16:24,619 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7124.JPG
+2024-12-09 14:16:46,829 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7125.JPG
+2024-12-09 14:17:09,636 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7126.JPG: 28821821
+2024-12-09 14:17:35,974 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7127.JPG
+2024-12-09 14:18:02,456 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7128.JPG
+2024-12-09 14:18:25,400 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7129.JPG
+2024-12-09 14:18:46,667 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7130.JPG
+2024-12-09 14:19:06,990 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7131.JPG
+2024-12-09 14:19:26,957 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7132.JPG: 240208-02
+2024-12-09 14:19:26,973 - INFO - Processed 27 photos for job number 240309-01
+2024-12-09 14:19:26,979 - INFO - Processed 12 photos for job number 240240-02
+2024-12-09 14:19:26,988 - INFO - Processed 22 photos for job number 240200-02
+2024-12-09 14:19:26,989 - INFO - Processed 1 photos for job number 240208-02
+2024-12-09 14:19:26,989 - INFO - Photo processing completed.
+2024-12-09 14:24:14,869 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-12-09 14:24:29,929 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7133.JPG: 240263-01
+2024-12-09 14:24:44,020 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7134.JPG
+2024-12-09 14:24:59,847 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7135.JPG: 33273761
+2024-12-09 14:25:15,671 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7136.JPG
+2024-12-09 14:25:31,049 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7137.JPG
+2024-12-09 14:25:52,795 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7138.JPG
+2024-12-09 14:26:10,671 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7139.JPG
+2024-12-09 14:26:27,613 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7140.JPG
+2024-12-09 14:26:46,430 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7141.JPG
+2024-12-09 14:27:01,830 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7142.JPG
+2024-12-09 14:27:19,227 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7143.JPG
+2024-12-09 14:27:37,890 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7144.JPG: 12141741
+2024-12-09 14:27:55,277 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7145.JPG: 80740962
+2024-12-09 14:28:11,061 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7146.JPG
+2024-12-09 14:28:26,827 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7147.JPG
+2024-12-09 14:28:42,851 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7148.JPG
+2024-12-09 14:29:00,717 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7149.JPG
+2024-12-09 14:29:16,891 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7150.JPG: 240263-01
+2024-12-09 14:29:33,318 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7151.JPG: 220793-10
+2024-12-09 14:29:49,706 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7152.JPG
+2024-12-09 14:30:07,690 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7153.JPG
+2024-12-09 14:30:27,107 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7154.JPG
+2024-12-09 14:30:45,799 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7155.JPG
+2024-12-09 14:31:05,216 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7156.JPG
+2024-12-09 14:31:23,526 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7157.JPG
+2024-12-09 14:31:42,972 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7158.JPG: 01720200
+2024-12-09 14:32:03,146 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7159.JPG: 12141320
+2024-12-09 14:32:21,480 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7160.JPG
+2024-12-09 14:32:42,580 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7161.JPG
+2024-12-09 14:33:03,822 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7162.JPG
+2024-12-09 14:33:24,029 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7163.JPG
+2024-12-09 14:33:45,750 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7164.JPG
+2024-12-09 14:34:06,253 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7165.JPG
+2024-12-09 14:34:28,113 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7166.JPG
+2024-12-09 14:34:51,615 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7167.JPG
+2024-12-09 14:35:15,362 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7168.JPG
+2024-12-09 14:35:38,168 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7169.JPG
+2024-12-09 14:36:00,899 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7170.JPG
+2024-12-09 14:36:24,552 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7171.JPG: 230793-10
+2024-12-09 14:36:45,633 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7172.JPG
+2024-12-09 14:37:05,982 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7173.JPG
+2024-12-09 14:37:26,440 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7174.JPG
+2024-12-09 14:37:46,627 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7175.JPG
+2024-12-09 14:38:07,090 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7176.JPG: 08388206
+2024-12-09 14:38:26,988 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7177.JPG
+2024-12-09 14:38:47,349 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7178.JPG
+2024-12-09 14:39:07,267 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7179.JPG
+2024-12-09 14:39:26,791 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7180.JPG
+2024-12-09 14:39:48,584 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7181.JPG
+2024-12-09 14:40:08,208 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7182.JPG
+2024-12-09 14:40:30,964 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7183.JPG
+2024-12-09 14:40:51,269 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7184.JPG
+2024-12-09 14:41:11,522 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7185.JPG
+2024-12-09 14:41:32,270 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7186.JPG
+2024-12-09 14:41:52,464 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7187.JPG
+2024-12-09 14:42:11,222 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7188.JPG
+2024-12-09 14:42:31,915 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7189.JPG
+2024-12-09 14:42:52,132 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7190.JPG
+2024-12-09 14:43:11,553 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7191.JPG
+2024-12-09 14:43:31,835 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7192.JPG
+2024-12-09 14:43:51,438 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7193.JPG: 220793-10
+2024-12-09 14:44:10,859 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7194.JPG: 240269-02
+2024-12-09 14:44:31,292 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7195.JPG
+2024-12-09 14:44:52,049 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7196.JPG
+2024-12-09 14:45:13,396 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7197.JPG
+2024-12-09 14:45:34,022 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7198.JPG: 60801627
+2024-12-09 14:45:54,731 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7199.JPG: 90779400
+2024-12-09 14:46:14,503 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7201.JPG
+2024-12-09 14:46:34,320 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7202.JPG
+2024-12-09 14:46:54,671 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7203.JPG
+2024-12-09 14:47:14,577 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7204.JPG
+2024-12-09 14:47:35,348 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7205.JPG
+2024-12-09 14:47:58,096 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7206.JPG
+2024-12-09 14:48:20,386 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7207.JPG: 79447957
+2024-12-09 14:48:44,810 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7209.JPG: 00100128
+2024-12-09 14:49:05,121 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7210.JPG
+2024-12-09 14:49:26,779 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7211.JPG: 240269-02
+2024-12-09 14:49:48,450 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7212.JPG: 240269-11
+2024-12-09 14:50:09,192 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7213.JPG
+2024-12-09 14:50:30,385 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7214.JPG
+2024-12-09 14:50:50,652 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7215.JPG
+2024-12-09 14:51:10,778 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7216.JPG
+2024-12-09 14:51:32,840 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7217.JPG
+2024-12-09 14:51:55,542 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7218.JPG
+2024-12-09 14:52:21,073 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7219.JPG
+2024-12-09 14:52:45,113 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7220.JPG: 58284404
+2024-12-09 14:53:07,589 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7221.JPG: 318868-38
+2024-12-09 14:53:27,482 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7222.JPG
+2024-12-09 14:53:53,610 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7223.JPG: 57377777
+2024-12-09 14:54:18,774 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7224.JPG: 83001090
+2024-12-09 14:54:47,328 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7225.JPG: 775717-91
+2024-12-09 14:55:09,879 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7226.JPG: 44411210
+2024-12-09 14:55:31,157 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7227.JPG
+2024-12-09 14:55:53,743 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7228.JPG
+2024-12-09 14:56:18,473 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7229.JPG
+2024-12-09 14:56:41,364 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7230.JPG
+2024-12-09 14:57:03,962 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7231.JPG
+2024-12-09 14:57:24,873 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7232.JPG: 240269-11
+2024-12-09 14:57:47,883 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7233.JPG: 230719-01
+2024-12-09 14:58:10,977 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7234.JPG
+2024-12-09 14:58:34,427 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7235.JPG
+2024-12-09 14:58:59,058 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7236.JPG
+2024-12-09 14:59:22,005 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7237.JPG
+2024-12-09 14:59:46,451 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7238.JPG
+2024-12-09 15:00:10,198 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7239.JPG
+2024-12-09 15:00:36,839 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7240.JPG: 52438187
+2024-12-09 15:00:59,947 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7241.JPG
+2024-12-09 15:01:28,640 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7242.JPG: 43414107
+2024-12-09 15:01:53,298 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7243.JPG: 40810977
+2024-12-09 15:02:15,974 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7244.JPG
+2024-12-09 15:02:39,176 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7245.JPG: 230719-01
+2024-12-09 15:03:03,871 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7246.JPG: 97040100
+2024-12-09 15:03:26,710 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7247.JPG: 230719-01
+2024-12-09 15:03:49,575 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7248.JPG: 240269-09
+2024-12-09 15:04:15,553 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7249.JPG
+2024-12-09 15:04:39,507 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7250.JPG: 51445156
+2024-12-09 15:05:01,889 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7251.JPG
+2024-12-09 15:05:23,402 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7252.JPG
+2024-12-09 15:05:48,133 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7253.JPG: 02000838
+2024-12-09 15:06:13,551 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7254.JPG: 31770392
+2024-12-09 15:06:35,953 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7255.JPG
+2024-12-09 15:06:59,597 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7256.JPG: 731777-97
+2024-12-09 15:07:23,110 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7257.JPG: 19495938
+2024-12-09 15:07:44,580 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7258.JPG
+2024-12-09 15:08:07,086 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7259.JPG
+2024-12-09 15:08:29,682 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7260.JPG: 73777701
+2024-12-09 15:08:54,214 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7261.JPG: 78179583
+2024-12-09 15:09:17,023 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7262.JPG
+2024-12-09 15:09:39,012 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7263.JPG
+2024-12-09 15:10:04,845 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7264.JPG: 77777702
+2024-12-09 15:10:28,628 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7265.JPG
+2024-12-09 15:10:50,629 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7266.JPG: 240269-09
+2024-12-09 15:11:15,811 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7267.JPG: 240269-13
+2024-12-09 15:11:42,868 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7268.JPG
+2024-12-09 15:12:07,678 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7269.JPG
+2024-12-09 15:12:33,400 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7270.JPG
+2024-12-09 15:12:54,464 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7271.JPG
+2024-12-09 15:13:18,022 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7272.JPG
+2024-12-09 15:13:41,656 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7273.JPG
+2024-12-09 15:14:04,429 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7274.JPG
+2024-12-09 15:14:27,137 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7275.JPG: 77777723
+2024-12-09 15:14:49,296 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7276.JPG: 77777777
+2024-12-09 15:15:09,681 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7277.JPG
+2024-12-09 15:15:33,160 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7278.JPG: 17303757
+2024-12-09 15:15:54,961 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7279.JPG
+2024-12-09 15:16:16,330 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7280.JPG
+2024-12-09 15:16:39,722 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7281.JPG
+2024-12-09 15:17:02,972 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7282.JPG: 27973773
+2024-12-09 15:17:24,460 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7283.JPG
+2024-12-09 15:17:49,466 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7284.JPG: 58899753
+2024-12-09 15:18:10,461 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7285.JPG
+2024-12-09 15:18:36,555 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7286.JPG
+2024-12-09 15:18:59,010 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7287.JPG: 240269-13
+2024-12-09 15:19:20,839 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7288.JPG: 230405-12
+2024-12-09 15:19:44,389 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7289.JPG
+2024-12-09 15:20:08,184 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7290.JPG
+2024-12-09 15:20:30,404 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7291.JPG
+2024-12-09 15:20:53,516 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7292.JPG
+2024-12-09 15:21:20,555 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7293.JPG
+2024-12-09 15:21:43,769 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7294.JPG
+2024-12-09 15:22:04,471 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7295.JPG
+2024-12-09 15:22:24,388 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7296.JPG
+2024-12-09 15:22:46,672 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7297.JPG
+2024-12-09 15:23:09,936 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7298.JPG
+2024-12-09 15:23:36,750 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7299.JPG
+2024-12-09 15:24:01,474 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7300.JPG
+2024-12-09 15:24:22,129 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7301.JPG
+2024-12-09 15:24:42,249 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7302.JPG
+2024-12-09 15:25:02,189 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7303.JPG
+2024-12-09 15:25:23,829 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7304.JPG
+2024-12-09 15:25:44,120 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7305.JPG
+2024-12-09 15:26:06,216 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7306.JPG: 21041104
+2024-12-09 15:26:26,558 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7307.JPG
+2024-12-09 15:26:46,731 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7308.JPG
+2024-12-09 15:27:07,653 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7309.JPG
+2024-12-09 15:27:28,360 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7310.JPG
+2024-12-09 15:27:49,362 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7311.JPG
+2024-12-09 15:28:12,974 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7312.JPG
+2024-12-09 15:28:35,555 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7313.JPG
+2024-12-09 15:28:57,612 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7314.JPG
+2024-12-09 15:29:20,230 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7315.JPG
+2024-12-09 15:29:43,451 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7316.JPG
+2024-12-09 15:30:07,275 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7317.JPG: 230405-12
+2024-12-09 15:30:29,970 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7318.JPG: 230737-05
+2024-12-09 15:30:51,037 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7319.JPG
+2024-12-09 15:31:11,894 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7320.JPG
+2024-12-09 15:31:31,426 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7321.JPG
+2024-12-09 15:31:53,989 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7322.JPG
+2024-12-09 15:32:16,422 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7323.JPG: 00606606
+2024-12-09 15:32:41,075 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7324.JPG: 00022227
+2024-12-09 15:33:01,621 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7325.JPG
+2024-12-09 15:33:23,849 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7326.JPG
+2024-12-09 15:33:45,241 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7327.JPG
+2024-12-09 15:34:08,811 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7328.JPG
+2024-12-09 15:34:30,601 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7329.JPG
+2024-12-09 15:34:51,926 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7330.JPG
+2024-12-09 15:35:15,807 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7331.JPG
+2024-12-09 15:35:41,613 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7332.JPG: 22022224
+2024-12-09 15:36:03,827 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7333.JPG
+2024-12-09 15:36:25,538 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7334.JPG
+2024-12-09 15:36:53,047 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7335.JPG
+2024-12-09 15:37:15,441 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7336.JPG
+2024-12-09 15:37:39,591 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7337.JPG
+2024-12-09 15:38:06,527 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7338.JPG
+2024-12-09 15:38:29,739 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7339.JPG
+2024-12-09 15:38:55,643 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7340.JPG
+2024-12-09 15:39:19,672 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7341.JPG: 74777782
+2024-12-09 15:39:41,748 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7342.JPG
+2024-12-09 15:40:05,205 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7343.JPG
+2024-12-09 15:40:28,392 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7344.JPG
+2024-12-09 15:40:51,338 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7345.JPG
+2024-12-09 15:41:13,642 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7346.JPG
+2024-12-09 15:41:35,819 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7347.JPG
+2024-12-09 15:41:58,772 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7348.JPG
+2024-12-09 15:42:23,016 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7349.JPG
+2024-12-09 15:42:47,585 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7350.JPG
+2024-12-09 15:43:10,023 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7351.JPG
+2024-12-09 15:43:33,881 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7352.JPG
+2024-12-09 15:43:57,462 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7353.JPG
+2024-12-09 15:44:19,789 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7354.JPG
+2024-12-09 15:44:41,348 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7355.JPG
+2024-12-09 15:45:02,989 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7356.JPG
+2024-12-09 15:45:25,905 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7357.JPG
+2024-12-09 15:45:49,003 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7358.JPG
+2024-12-09 15:46:13,057 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7359.JPG
+2024-12-09 15:46:38,353 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7360.JPG
+2024-12-09 15:47:00,387 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7361.JPG
+2024-12-09 15:47:23,164 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7362.JPG
+2024-12-09 15:47:48,621 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7363.JPG
+2024-12-09 15:48:15,406 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7364.JPG
+2024-12-09 15:48:40,397 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7365.JPG
+2024-12-09 15:49:02,828 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7366.JPG
+2024-12-09 15:49:27,248 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7367.JPG
+2024-12-09 15:49:50,064 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7368.JPG
+2024-12-09 15:50:17,790 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7369.JPG
+2024-12-09 15:50:40,007 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7370.JPG
+2024-12-09 15:51:01,809 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7371.JPG
+2024-12-09 15:51:22,335 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7372.JPG
+2024-12-09 15:51:43,747 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7373.JPG
+2024-12-09 15:52:05,611 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7374.JPG
+2024-12-09 15:52:29,914 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7375.JPG: 84444104
+2024-12-09 15:52:54,416 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7376.JPG: 904585-11
+2024-12-09 15:53:18,404 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7377.JPG: 230737-05
+2024-12-09 15:53:42,182 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7378.JPG: 240220-02
+2024-12-09 15:54:06,743 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7379.JPG
+2024-12-09 15:54:30,907 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7380.JPG
+2024-12-09 15:54:54,657 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7381.JPG
+2024-12-09 15:55:18,742 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7382.JPG
+2024-12-09 15:55:42,759 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7383.JPG
+2024-12-09 15:56:09,299 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7384.JPG: 07050000
+2024-12-09 15:56:33,011 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7385.JPG
+2024-12-09 15:56:56,150 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7386.JPG
+2024-12-09 15:57:24,880 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7387.JPG
+2024-12-09 15:57:50,435 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7388.JPG
+2024-12-09 15:58:15,146 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7389.JPG
+2024-12-09 15:58:39,501 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7390.JPG
+2024-12-09 15:59:03,440 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7391.JPG
+2024-12-09 15:59:27,203 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7392.JPG
+2024-12-09 15:59:48,347 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7393.JPG
+2024-12-09 16:00:10,203 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7394.JPG
+2024-12-09 16:00:30,635 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7395.JPG
+2024-12-09 16:00:52,019 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7396.JPG
+2024-12-09 16:01:13,078 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7397.JPG
+2024-12-09 16:01:34,005 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7398.JPG
+2024-12-09 16:01:55,133 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7399.JPG
+2024-12-09 16:02:17,282 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7400.JPG
+2024-12-09 16:02:38,714 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7401.JPG
+2024-12-09 16:03:07,170 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7402.JPG: 240220-02
+2024-12-09 16:03:37,630 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7403.JPG: 240220-02
+2024-12-09 16:04:13,357 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7404.JPG: 240220-02
+2024-12-09 16:04:40,426 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7405.JPG
+2024-12-09 16:05:03,203 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7406.JPG
+2024-12-09 16:05:25,944 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7407.JPG: 240220-02
+2024-12-09 16:05:48,390 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7408.JPG: 240220-01
+2024-12-09 16:06:11,750 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7409.JPG
+2024-12-09 16:06:34,849 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7410.JPG
+2024-12-09 16:06:59,320 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7411.JPG
+2024-12-09 16:07:20,819 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7412.JPG
+2024-12-09 16:07:46,192 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7413.JPG
+2024-12-09 16:08:10,625 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7414.JPG
+2024-12-09 16:08:33,237 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7415.JPG
+2024-12-09 16:08:54,655 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7416.JPG
+2024-12-09 16:09:19,414 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7417.JPG
+2024-12-09 16:09:42,564 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7418.JPG
+2024-12-09 16:10:04,618 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7419.JPG
+2024-12-09 16:10:26,381 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7420.JPG
+2024-12-09 16:10:46,838 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7421.JPG
+2024-12-09 16:11:08,534 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7422.JPG
+2024-12-09 16:11:31,919 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7423.JPG
+2024-12-09 16:11:53,890 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7424.JPG
+2024-12-09 16:12:15,803 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7425.JPG
+2024-12-09 16:12:36,514 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7426.JPG
+2024-12-09 16:12:57,596 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7427.JPG
+2024-12-09 16:13:19,665 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7428.JPG: 08006017
+2024-12-09 16:13:41,958 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7429.JPG
+2024-12-09 16:14:05,011 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7430.JPG
+2024-12-09 16:14:26,083 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7431.JPG: 240220-01
+2024-12-09 16:14:46,621 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7432.JPG: 240220-01
+2024-12-09 16:15:08,553 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7433.JPG
+2024-12-09 16:15:28,777 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7434.JPG
+2024-12-09 16:15:50,696 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7435.JPG: 240220-01
+2024-12-09 16:16:12,445 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7436.JPG: 230485-04
+2024-12-09 16:16:32,969 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7437.JPG
+2024-12-09 16:16:54,658 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7438.JPG
+2024-12-09 16:17:14,486 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7439.JPG
+2024-12-09 16:17:34,854 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7440.JPG
+2024-12-09 16:17:56,155 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7441.JPG
+2024-12-09 16:18:18,123 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7442.JPG
+2024-12-09 16:18:38,463 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7443.JPG
+2024-12-09 16:18:58,551 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7444.JPG
+2024-12-09 16:19:23,498 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7445.JPG
+2024-12-09 16:19:46,078 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7446.JPG
+2024-12-09 16:20:09,285 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7447.JPG
+2024-12-09 16:20:32,314 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7448.JPG
+2024-12-09 16:20:56,356 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7449.JPG
+2024-12-09 16:21:17,838 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7450.JPG
+2024-12-09 16:21:39,603 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7451.JPG
+2024-12-09 16:22:02,972 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7452.JPG
+2024-12-09 16:22:23,829 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7453.JPG
+2024-12-09 16:22:44,313 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7454.JPG
+2024-12-09 16:23:04,753 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7455.JPG
+2024-12-09 16:23:27,369 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7456.JPG
+2024-12-09 16:23:49,637 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7457.JPG
+2024-12-09 16:24:15,365 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7458.JPG: 230405-04
+2024-12-09 16:24:35,969 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7462.JPG: 240269-08
+2024-12-09 16:24:57,626 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7463.JPG
+2024-12-09 16:25:20,428 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7464.JPG
+2024-12-09 16:25:43,574 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7465.JPG
+2024-12-09 16:26:04,065 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7466.JPG
+2024-12-09 16:26:26,645 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7467.JPG
+2024-12-09 16:26:51,792 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7468.JPG
+2024-12-09 16:27:14,828 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7469.JPG
+2024-12-09 16:27:38,260 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7470.JPG
+2024-12-09 16:28:03,259 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7471.JPG
+2024-12-09 16:28:23,992 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7472.JPG
+2024-12-09 16:28:44,601 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7473.JPG
+2024-12-09 16:29:04,643 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7474.JPG
+2024-12-09 16:29:24,641 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7475.JPG
+2024-12-09 16:29:47,337 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7476.JPG: 44105047
+2024-12-09 16:30:08,211 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7477.JPG
+2024-12-09 16:30:31,966 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7478.JPG
+2024-12-09 16:30:54,103 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7479.JPG
+2024-12-09 16:31:13,933 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7480.JPG
+2024-12-09 16:31:33,941 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7481.JPG
+2024-12-09 16:31:55,766 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7482.JPG
+2024-12-09 16:32:14,960 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7483.JPG
+2024-12-09 16:32:35,387 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7484.JPG
+2024-12-09 16:32:54,841 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7485.JPG: 240269-00
+2024-12-09 16:33:13,999 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7488.JPG: 240066-04
+2024-12-09 16:33:33,948 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7489.JPG
+2024-12-09 16:33:54,805 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7490.JPG
+2024-12-09 16:34:15,808 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7491.JPG
+2024-12-09 16:34:35,692 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7492.JPG
+2024-12-09 16:34:56,746 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7493.JPG
+2024-12-09 16:35:19,425 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7494.JPG: 41919634
+2024-12-09 16:35:42,353 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7495.JPG
+2024-12-09 16:36:04,735 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7496.JPG: 92183048
+2024-12-09 16:36:26,620 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7497.JPG
+2024-12-09 16:36:49,718 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7498.JPG: 40444441
+2024-12-09 16:37:11,571 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7500.JPG: 80480706
+2024-12-09 16:37:33,632 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7501.JPG
+2024-12-09 16:37:55,223 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7506.JPG
+2024-12-09 16:38:17,692 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7507.JPG
+2024-12-09 16:38:38,628 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7508.JPG
+2024-12-09 16:38:59,400 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7509.JPG
+2024-12-09 16:39:19,085 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7510.JPG
+2024-12-09 16:39:39,361 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7511.JPG
+2024-12-09 16:39:59,358 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7512.JPG
+2024-12-09 16:40:19,830 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7513.JPG
+2024-12-09 16:40:39,817 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7514.JPG
+2024-12-09 16:41:00,312 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7515.JPG
+2024-12-09 16:41:19,534 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7516.JPG
+2024-12-09 16:41:39,500 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7517.JPG
+2024-12-09 16:41:59,153 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7518.JPG
+2024-12-09 16:42:19,961 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7519.JPG: 102806-01
+2024-12-09 16:42:40,846 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7520.JPG
+2024-12-09 16:43:00,643 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7521.JPG
+2024-12-09 16:43:19,317 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7523.JPG
+2024-12-09 16:43:41,009 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7524.JPG: 240066-04
+2024-12-09 16:44:01,980 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7525.JPG: 240066-04
+2024-12-09 16:44:21,497 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7526.JPG
+2024-12-09 16:44:40,367 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7527.JPG: 240322-02
+2024-12-09 16:45:00,051 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7528.JPG
+2024-12-09 16:45:22,891 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7529.JPG
+2024-12-09 16:45:42,485 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7530.JPG
+2024-12-09 16:46:01,797 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7532.JPG: 11404661
+2024-12-09 16:46:21,699 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7533.JPG
+2024-12-09 16:46:41,364 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7534.JPG
+2024-12-09 16:47:02,231 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7535.JPG
+2024-12-09 16:47:21,853 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7536.JPG
+2024-12-09 16:47:42,389 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7537.JPG
+2024-12-09 16:48:02,047 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7539.JPG
+2024-12-09 16:48:25,494 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7540.JPG: 39048512
+2024-12-09 16:48:51,726 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7541.JPG
+2024-12-09 16:49:15,603 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7542.JPG
+2024-12-09 16:49:36,974 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7543.JPG
+2024-12-09 16:50:01,923 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7544.JPG
+2024-12-09 16:50:24,076 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7545.JPG
+2024-12-09 16:50:45,600 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7546.JPG
+2024-12-09 16:51:06,871 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7547.JPG
+2024-12-09 16:51:26,922 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7548.JPG
+2024-12-09 16:51:47,737 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7549.JPG
+2024-12-09 16:52:09,320 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7550.JPG
+2024-12-09 16:52:32,418 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7551.JPG
+2024-12-09 16:52:54,127 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7552.JPG
+2024-12-09 16:53:14,596 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7553.JPG
+2024-12-09 16:53:34,584 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7554.JPG
+2024-12-09 16:53:55,022 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7555.JPG
+2024-12-09 16:54:16,442 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7556.JPG
+2024-12-09 16:54:38,311 - WARNING - No job number found in C:\Photos-repo\testing\test-16\IMG_7557.JPG
+2024-12-09 16:54:59,160 - INFO - Job number found in C:\Photos-repo\testing\test-16\IMG_7558.JPG: 240322-02
+2024-12-09 16:54:59,192 - INFO - Processed 18 photos for job number 240263-01
+2024-12-09 16:54:59,194 - INFO - Processed 1 photos for job number 220793-10
+2024-12-09 16:54:59,215 - INFO - Processed 22 photos for job number 230793-10
+2024-12-09 16:54:59,231 - INFO - Processed 16 photos for job number 240269-02
+2024-12-09 16:54:59,248 - INFO - Processed 21 photos for job number 240269-11
+2024-12-09 16:54:59,261 - INFO - Processed 15 photos for job number 230719-01
+2024-12-09 16:54:59,278 - INFO - Processed 19 photos for job number 240269-09
+2024-12-09 16:54:59,302 - INFO - Processed 21 photos for job number 240269-13
+2024-12-09 16:54:59,329 - INFO - Processed 30 photos for job number 230405-12
+2024-12-09 16:54:59,382 - INFO - Processed 60 photos for job number 230737-05
+2024-12-09 16:54:59,414 - INFO - Processed 30 photos for job number 240220-02
+2024-12-09 16:54:59,441 - INFO - Processed 28 photos for job number 240220-01
+2024-12-09 16:54:59,462 - INFO - Processed 22 photos for job number 230485-04
+2024-12-09 16:54:59,463 - INFO - Processed 1 photos for job number 230405-04
+2024-12-09 16:54:59,478 - INFO - Processed 23 photos for job number 240269-08
+2024-12-09 16:54:59,480 - INFO - Processed 1 photos for job number 240269-00
+2024-12-09 16:54:59,496 - INFO - Processed 33 photos for job number 240066-04
+2024-12-09 16:54:59,513 - INFO - Processed 30 photos for job number 240322-02
+2024-12-09 16:54:59,514 - INFO - Photo processing completed.
+2024-12-10 09:16:39,977 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-12-10 09:17:12,177 - INFO - Job number found in C:\Photos-repo\testing\test-17\IMG_9912.JPG: 240471-01
+2024-12-10 09:17:36,363 - WARNING - No job number found in C:\Photos-repo\testing\test-17\IMG_9913.JPG
+2024-12-10 09:18:02,731 - INFO - Job number found in C:\Photos-repo\testing\test-17\IMG_9914.JPG: 51202416
+2024-12-10 09:18:28,793 - INFO - Job number found in C:\Photos-repo\testing\test-17\IMG_9915.JPG: 240475-01
+2024-12-10 09:18:53,044 - WARNING - No job number found in C:\Photos-repo\testing\test-17\IMG_9916.JPG
+2024-12-10 09:19:17,783 - INFO - Job number found in C:\Photos-repo\testing\test-17\IMG_9917.JPG: 57202411
+2024-12-10 09:19:43,381 - INFO - Job number found in C:\Photos-repo\testing\test-17\IMG_9918.JPG: 240475-02
+2024-12-10 09:20:07,069 - WARNING - No job number found in C:\Photos-repo\testing\test-17\IMG_9919.JPG
+2024-12-10 09:20:33,494 - WARNING - No job number found in C:\Photos-repo\testing\test-17\IMG_9920.JPG
+2024-12-10 09:21:02,567 - INFO - Job number found in C:\Photos-repo\testing\test-17\IMG_9921.JPG: 240458-01
+2024-12-10 09:21:24,912 - WARNING - No job number found in C:\Photos-repo\testing\test-17\IMG_9922.JPG
+2024-12-10 09:21:52,602 - INFO - Job number found in C:\Photos-repo\testing\test-17\IMG_9923.JPG: 340458-01
+2024-12-10 09:22:21,155 - INFO - Job number found in C:\Photos-repo\testing\test-17\IMG_9924.JPG: 240458-01
+2024-12-10 09:22:43,463 - WARNING - No job number found in C:\Photos-repo\testing\test-17\IMG_9925.JPG
+2024-12-10 09:23:12,581 - INFO - Job number found in C:\Photos-repo\testing\test-17\IMG_9926.JPG: 97202411
+2024-12-10 09:23:40,817 - INFO - Job number found in C:\Photos-repo\testing\test-17\IMG_9927.JPG: 240458-01
+2024-12-10 09:24:02,384 - WARNING - No job number found in C:\Photos-repo\testing\test-17\IMG_9928.JPG
+2024-12-10 09:24:29,941 - INFO - Job number found in C:\Photos-repo\testing\test-17\IMG_9929.JPG: 240458-01
+2024-12-10 09:24:56,905 - WARNING - No job number found in C:\Photos-repo\testing\test-17\IMG_9930.JPG
+2024-12-10 09:25:18,993 - WARNING - No job number found in C:\Photos-repo\testing\test-17\IMG_9931.JPG
+2024-12-10 09:25:47,347 - INFO - Job number found in C:\Photos-repo\testing\test-17\IMG_9932.JPG: 240458-01
+2024-12-10 09:26:12,835 - INFO - Job number found in C:\Photos-repo\testing\test-17\IMG_9933.JPG: 240458-01
+2024-12-10 09:26:34,564 - WARNING - No job number found in C:\Photos-repo\testing\test-17\IMG_9934.JPG
+2024-12-10 09:27:00,551 - INFO - Job number found in C:\Photos-repo\testing\test-17\IMG_9935.JPG: 240458-01
+2024-12-10 09:27:30,955 - INFO - Job number found in C:\Photos-repo\testing\test-17\IMG_9936.JPG: 97202411
+2024-12-10 09:27:53,470 - WARNING - No job number found in C:\Photos-repo\testing\test-17\IMG_9937.JPG
+2024-12-10 09:28:20,828 - INFO - Job number found in C:\Photos-repo\testing\test-17\IMG_9938.JPG: 240458-01
+2024-12-10 09:28:46,238 - INFO - Job number found in C:\Photos-repo\testing\test-17\IMG_9939.JPG: 230485-15
+2024-12-10 09:29:08,076 - WARNING - No job number found in C:\Photos-repo\testing\test-17\IMG_9940.JPG
+2024-12-10 09:29:30,859 - WARNING - No job number found in C:\Photos-repo\testing\test-17\IMG_9941.JPG
+2024-12-10 09:29:53,179 - WARNING - No job number found in C:\Photos-repo\testing\test-17\IMG_9942.JPG
+2024-12-10 09:30:19,342 - WARNING - No job number found in C:\Photos-repo\testing\test-17\IMG_9943.JPG
+2024-12-10 09:30:45,760 - INFO - Job number found in C:\Photos-repo\testing\test-17\IMG_9944.JPG: 230485-15
+2024-12-10 09:31:12,064 - INFO - Job number found in C:\Photos-repo\testing\test-17\IMG_9945.JPG: 240441-01
+2024-12-10 09:31:36,471 - WARNING - No job number found in C:\Photos-repo\testing\test-17\IMG_9946.JPG
+2024-12-10 09:32:03,952 - INFO - Job number found in C:\Photos-repo\testing\test-17\IMG_9947.JPG: 240491-01
+2024-12-10 09:32:32,246 - INFO - Job number found in C:\Photos-repo\testing\test-17\IMG_9948.JPG: 13277304
+2024-12-10 09:32:56,179 - WARNING - No job number found in C:\Photos-repo\testing\test-17\IMG_9949.JPG
+2024-12-10 09:33:27,266 - INFO - Job number found in C:\Photos-repo\testing\test-17\IMG_9950.JPG: 13277304
+2024-12-10 09:33:52,983 - INFO - Job number found in C:\Photos-repo\testing\test-17\IMG_9951.JPG: 63277304
+2024-12-10 09:34:13,496 - WARNING - No job number found in C:\Photos-repo\testing\test-17\IMG_9952.JPG
+2024-12-10 09:34:41,085 - INFO - Job number found in C:\Photos-repo\testing\test-17\IMG_9953.JPG: 63277304
+2024-12-10 09:35:05,799 - INFO - Job number found in C:\Photos-repo\testing\test-17\IMG_9954.JPG: 43277304
+2024-12-10 09:35:26,471 - WARNING - No job number found in C:\Photos-repo\testing\test-17\IMG_9955.JPG
+2024-12-10 09:35:51,366 - INFO - Job number found in C:\Photos-repo\testing\test-17\IMG_9956.JPG: 12419524
+2024-12-10 09:36:19,007 - INFO - Job number found in C:\Photos-repo\testing\test-17\IMG_9957.JPG: 072322-00
+2024-12-10 09:36:41,212 - WARNING - No job number found in C:\Photos-repo\testing\test-17\IMG_9958.JPG
+2024-12-10 09:37:09,324 - INFO - Job number found in C:\Photos-repo\testing\test-17\IMG_9959.JPG: 77882824
+2024-12-10 09:37:35,537 - INFO - Job number found in C:\Photos-repo\testing\test-17\IMG_9960.JPG: 13271304
+2024-12-10 09:37:56,456 - WARNING - No job number found in C:\Photos-repo\testing\test-17\IMG_9961.JPG
+2024-12-10 09:38:23,111 - INFO - Job number found in C:\Photos-repo\testing\test-17\IMG_9962.JPG: 13277304
+2024-12-10 09:38:49,729 - INFO - Job number found in C:\Photos-repo\testing\test-17\IMG_9963.JPG: 240406-01
+2024-12-10 09:39:14,034 - WARNING - No job number found in C:\Photos-repo\testing\test-17\IMG_9964.JPG
+2024-12-10 09:39:37,913 - INFO - Job number found in C:\Photos-repo\testing\test-17\IMG_9965.JPG: 804048-81
+2024-12-10 09:40:01,624 - WARNING - No job number found in C:\Photos-repo\testing\test-17\IMG_9966.JPG
+2024-12-10 09:40:29,790 - WARNING - No job number found in C:\Photos-repo\testing\test-17\IMG_9967.JPG
+2024-12-10 09:40:54,452 - WARNING - No job number found in C:\Photos-repo\testing\test-17\IMG_9968.JPG
+2024-12-10 09:41:16,286 - WARNING - No job number found in C:\Photos-repo\testing\test-17\IMG_9969.JPG
+2024-12-10 09:41:40,627 - WARNING - No job number found in C:\Photos-repo\testing\test-17\IMG_9970.JPG
+2024-12-10 09:42:12,013 - WARNING - No job number found in C:\Photos-repo\testing\test-17\IMG_9971.JPG
+2024-12-10 09:42:44,096 - WARNING - No job number found in C:\Photos-repo\testing\test-17\IMG_9972.JPG
+2024-12-10 09:43:20,509 - INFO - Job number found in C:\Photos-repo\testing\test-17\IMG_9973.JPG: 240438-01
+2024-12-10 09:43:48,124 - WARNING - No job number found in C:\Photos-repo\testing\test-17\IMG_9974.JPG
+2024-12-10 09:44:13,765 - WARNING - No job number found in C:\Photos-repo\testing\test-17\IMG_9975.JPG
+2024-12-10 09:44:43,723 - INFO - Job number found in C:\Photos-repo\testing\test-17\IMG_9976.JPG: 340438-01
+2024-12-10 09:45:17,481 - INFO - Job number found in C:\Photos-repo\testing\test-17\IMG_9977.JPG: 240521-01
+2024-12-10 09:45:42,153 - INFO - Job number found in C:\Photos-repo\testing\test-17\IMG_9978.JPG: 240501-01
+2024-12-10 09:46:03,283 - WARNING - No job number found in C:\Photos-repo\testing\test-17\IMG_9979.JPG
+2024-12-10 09:46:25,148 - WARNING - No job number found in C:\Photos-repo\testing\test-17\IMG_9980.JPG
+2024-12-10 09:46:59,702 - INFO - Job number found in C:\Photos-repo\testing\test-17\IMG_9981.JPG: 61141024
+2024-12-10 09:47:30,432 - INFO - Job number found in C:\Photos-repo\testing\test-17\IMG_9982.JPG: 240455-01
+2024-12-10 09:47:54,872 - WARNING - No job number found in C:\Photos-repo\testing\test-17\IMG_9983.JPG
+2024-12-10 09:48:29,328 - INFO - Job number found in C:\Photos-repo\testing\test-17\IMG_9984.JPG: 67202412
+2024-12-10 09:49:00,278 - WARNING - No job number found in C:\Photos-repo\testing\test-17\IMG_9986.JPG
+2024-12-10 09:49:24,328 - WARNING - No job number found in C:\Photos-repo\testing\test-17\IMG_9987.JPG
+2024-12-10 09:49:55,964 - INFO - Job number found in C:\Photos-repo\testing\test-17\IMG_9988.JPG: 34440161
+2024-12-10 09:49:55,983 - INFO - Processed 3 photos for job number 240471-01
+2024-12-10 09:49:55,989 - INFO - Processed 3 photos for job number 240475-01
+2024-12-10 09:49:55,992 - INFO - Processed 3 photos for job number 240475-02
+2024-12-10 09:49:56,024 - INFO - Processed 18 photos for job number 240458-01
+2024-12-10 09:49:56,036 - INFO - Processed 6 photos for job number 230485-15
+2024-12-10 09:49:56,041 - INFO - Processed 2 photos for job number 240441-01
+2024-12-10 09:49:56,062 - INFO - Processed 16 photos for job number 240491-01
+2024-12-10 09:49:56,073 - INFO - Processed 10 photos for job number 240406-01
+2024-12-10 09:49:56,077 - INFO - Processed 4 photos for job number 240438-01
+2024-12-10 09:49:56,079 - INFO - Processed 1 photos for job number 240521-01
+2024-12-10 09:49:56,083 - INFO - Processed 4 photos for job number 240501-01
+2024-12-10 09:49:56,088 - INFO - Processed 6 photos for job number 240455-01
+2024-12-10 09:49:56,088 - INFO - Photo processing completed.
+2024-12-10 15:49:51,976 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-12-10 15:50:19,697 - WARNING - No job number found in C:\Photos-repo\testing\IMG_4299.JPG
+2024-12-10 15:50:19,701 - WARNING - No job number detected for IMG_4299.JPG
+2024-12-10 15:50:42,251 - WARNING - No job number found in C:\Photos-repo\testing\IMG_4300.JPG
+2024-12-10 15:50:42,252 - WARNING - No job number detected for IMG_4300.JPG
+2024-12-10 15:58:18,776 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-12-10 15:58:42,693 - INFO - Job number found in C:\Photos-repo\testing\preprocess\IMG_4299.JPG: 230811-01
+2024-12-10 15:59:04,184 - WARNING - No job number found in C:\Photos-repo\testing\preprocess\IMG_4300.JPG
+2024-12-10 15:59:34,834 - WARNING - No job number found in C:\Photos-repo\testing\preprocess\IMG_4301.JPG
+2024-12-10 16:00:01,774 - INFO - Job number found in C:\Photos-repo\testing\preprocess\IMG_4302.JPG: 37877561
+2024-12-10 16:00:25,301 - INFO - Job number found in C:\Photos-repo\testing\preprocess\IMG_4303.JPG: 50351523
+2024-12-10 16:00:53,598 - WARNING - No job number found in C:\Photos-repo\testing\preprocess\IMG_4304.JPG
+2024-12-10 16:01:22,682 - WARNING - No job number found in C:\Photos-repo\testing\preprocess\IMG_4305.JPG
+2024-12-10 16:01:49,643 - WARNING - No job number found in C:\Photos-repo\testing\preprocess\IMG_4306.JPG
+2024-12-10 16:02:21,412 - WARNING - No job number found in C:\Photos-repo\testing\preprocess\IMG_4307.JPG
+2024-12-10 16:02:49,031 - WARNING - No job number found in C:\Photos-repo\testing\preprocess\IMG_4308.JPG
+2024-12-10 16:03:22,101 - INFO - Job number found in C:\Photos-repo\testing\preprocess\IMG_4309.JPG: 64720760
+2024-12-10 16:03:46,809 - WARNING - No job number found in C:\Photos-repo\testing\preprocess\IMG_4310.JPG
+2024-12-10 16:04:12,040 - WARNING - No job number found in C:\Photos-repo\testing\preprocess\IMG_4311.JPG
+2024-12-10 16:04:36,406 - INFO - Job number found in C:\Photos-repo\testing\preprocess\IMG_4312.JPG: 38322808
+2024-12-10 16:05:06,073 - INFO - Job number found in C:\Photos-repo\testing\preprocess\IMG_4313.JPG: 14205045
+2024-12-10 16:05:34,135 - INFO - Job number found in C:\Photos-repo\testing\preprocess\IMG_4314.JPG: 74777767
+2024-12-10 16:06:00,192 - WARNING - No job number found in C:\Photos-repo\testing\preprocess\IMG_4315.JPG
+2024-12-10 16:06:23,857 - WARNING - No job number found in C:\Photos-repo\testing\preprocess\IMG_4316.JPG
+2024-12-10 16:06:50,732 - WARNING - No job number found in C:\Photos-repo\testing\preprocess\IMG_4317.JPG
+2024-12-10 16:07:15,297 - WARNING - No job number found in C:\Photos-repo\testing\preprocess\IMG_4318.JPG
+2024-12-10 16:07:38,020 - WARNING - No job number found in C:\Photos-repo\testing\preprocess\IMG_4319.JPG
+2024-12-10 16:08:04,718 - WARNING - No job number found in C:\Photos-repo\testing\preprocess\IMG_4320.JPG
+2024-12-10 16:08:28,828 - WARNING - No job number found in C:\Photos-repo\testing\preprocess\IMG_4321.JPG
+2024-12-10 16:08:54,211 - WARNING - No job number found in C:\Photos-repo\testing\preprocess\IMG_4322.JPG
+2024-12-10 16:09:18,315 - WARNING - No job number found in C:\Photos-repo\testing\preprocess\IMG_4323.JPG
+2024-12-10 16:09:41,222 - WARNING - No job number found in C:\Photos-repo\testing\preprocess\IMG_4324.JPG
+2024-12-10 16:10:08,320 - WARNING - No job number found in C:\Photos-repo\testing\preprocess\IMG_4325.JPG
+2024-12-10 16:10:33,619 - WARNING - No job number found in C:\Photos-repo\testing\preprocess\IMG_4326.JPG
+2024-12-10 16:10:58,324 - WARNING - No job number found in C:\Photos-repo\testing\preprocess\IMG_4327.JPG
+2024-12-10 16:11:24,488 - WARNING - No job number found in C:\Photos-repo\testing\preprocess\IMG_4328.JPG
+2024-12-10 16:11:50,092 - INFO - Job number found in C:\Photos-repo\testing\preprocess\IMG_4329.JPG: 230811-01
+2024-12-10 16:12:12,875 - INFO - Job number found in C:\Photos-repo\testing\preprocess\IMG_4330.JPG: 230408-02
+2024-12-10 16:12:38,942 - WARNING - No job number found in C:\Photos-repo\testing\preprocess\IMG_4331.JPG
+2024-12-10 16:13:02,342 - WARNING - No job number found in C:\Photos-repo\testing\preprocess\IMG_4332.JPG
+2024-12-10 16:13:27,129 - WARNING - No job number found in C:\Photos-repo\testing\preprocess\IMG_4333.JPG
+2024-12-10 16:13:51,886 - WARNING - No job number found in C:\Photos-repo\testing\preprocess\IMG_4334.JPG
+2024-12-10 16:14:14,805 - WARNING - No job number found in C:\Photos-repo\testing\preprocess\IMG_4335.JPG
+2024-12-10 16:14:38,621 - WARNING - No job number found in C:\Photos-repo\testing\preprocess\IMG_4336.JPG
+2024-12-10 16:15:01,993 - WARNING - No job number found in C:\Photos-repo\testing\preprocess\IMG_4337.JPG
+2024-12-10 16:15:30,157 - WARNING - No job number found in C:\Photos-repo\testing\preprocess\IMG_4339.JPG
+2024-12-10 16:15:59,044 - INFO - Job number found in C:\Photos-repo\testing\preprocess\IMG_4340.JPG: 230408-02
+2024-12-10 16:15:59,076 - INFO - Processed 31 photos for job number 230811-01
+2024-12-10 16:15:59,085 - INFO - Processed 10 photos for job number 230408-02
+2024-12-10 16:15:59,085 - INFO - Photo processing completed.

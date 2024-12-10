@@ -1,6 +1,6 @@
 
-SOURCE_DIR = r'C:\Photos-repo\testing\test-14'
-JOB_DIR = r'C:\Photos-repo\testing\test-14'
+SOURCE_DIR = r'C:\Photos-repo\preprocess'
+JOB_DIR = r'C:\Photos-repo\preprocess'
 LOG_DIR = 'logs'
 LOG_FILE = 'photo_processing.log'
 MAX_DISTANCE = 5
