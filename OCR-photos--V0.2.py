@@ -1,3 +1,4 @@
+# Stable Version with excellent results
 import os
 import logging
 from tqdm import tqdm
@@ -71,7 +72,8 @@ def process_photos() -> Tuple[List[str], Dict[str, List[str]]]:
     current_job = None
     current_group = []
 
-    with tqdm(total=len(image_files), desc="Processing images", unit="image") as pbar:
+    with tqdm(total=len(image_files), desc="Processing images", unit="image",
+              initial=1, bar_format='{l_bar}{bar}| {n_fmt}/{total_fmt} [{elapsed}<{remaining}, {rate_fmt}]') as pbar:
         for image_file in image_files:
             image_path = os.path.join(SOURCE_DIR, image_file)
             job_number = read_job_number_from_image(image_path, reader)

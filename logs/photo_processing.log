@@ -1420,3 +1420,310 @@ Job 240331-35 has only 1 photo(s)
 2024-12-10 16:15:59,076 - INFO - Processed 31 photos for job number 230811-01
 2024-12-10 16:15:59,085 - INFO - Processed 10 photos for job number 230408-02
 2024-12-10 16:15:59,085 - INFO - Photo processing completed.
+2024-12-11 11:51:48,345 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-12-11 11:57:34,522 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-12-11 12:02:31,045 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-12-11 12:05:46,704 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-12-11 13:05:07,026 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-12-11 13:28:36,298 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-12-11 13:28:39,677 - WARNING - No valid job number detected for C:\Photos-repo\preprocess\IMG_6877.jpg
+2024-12-11 13:29:38,394 - WARNING - No valid job number detected for C:\Photos-repo\preprocess\IMG_6879.JPG
+2024-12-11 13:30:05,170 - WARNING - No valid job number detected for C:\Photos-repo\preprocess\IMG_6880.JPG
+2024-12-11 13:30:30,619 - WARNING - No valid job number detected for C:\Photos-repo\preprocess\IMG_6881.JPG
+2024-12-11 13:30:57,823 - WARNING - No valid job number detected for C:\Photos-repo\preprocess\IMG_6882.JPG
+2024-12-11 13:31:21,487 - INFO - Script execution completed.
+2024-12-11 13:35:57,075 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-12-11 13:36:00,022 - WARNING - No valid job number detected for C:\Photos-repo\preprocess\IMG_6877.jpg
+2024-12-11 13:36:49,111 - WARNING - No valid job number detected for C:\Photos-repo\preprocess\IMG_6879.JPG
+2024-12-11 13:38:03,335 - WARNING - No valid job number detected for C:\Photos-repo\preprocess\IMG_6932.JPG
+2024-12-11 13:38:57,604 - WARNING - No valid job number detected for C:\Photos-repo\preprocess\IMG_6962.JPG
+2024-12-11 13:40:22,250 - WARNING - No valid job number detected for C:\Photos-repo\preprocess\IMG_6982.JPG
+2024-12-11 13:41:22,347 - WARNING - No valid job number detected for C:\Photos-repo\preprocess\IMG_7009.JPG
+2024-12-11 13:42:35,831 - WARNING - No valid job number detected for C:\Photos-repo\preprocess\IMG_7096.JPG
+2024-12-11 13:43:02,014 - WARNING - No valid job number detected for C:\Photos-repo\preprocess\IMG_7106.JPG
+2024-12-11 13:44:31,365 - WARNING - No valid job number detected for C:\Photos-repo\preprocess\IMG_7319.JPG
+2024-12-11 13:45:00,089 - WARNING - No valid job number detected for C:\Photos-repo\preprocess\IMG_7376.JPG
+2024-12-11 13:45:28,240 - INFO - Processed 3 photos for job number 240242-01
+2024-12-11 13:45:28,248 - INFO - Processed 3 photos for job number 240219-02
+2024-12-11 13:45:28,257 - INFO - Processed 4 photos for job number 240219-01
+2024-12-11 13:45:28,260 - INFO - Processed 2 photos for job number 240240-02
+2024-12-11 13:45:28,264 - INFO - Processed 2 photos for job number 230737-05
+2024-12-11 13:45:28,265 - INFO - Photo processing completed.
+2024-12-11 13:45:28,328 - INFO - Validation results: {'240242-01': [], '240219-02': [], '240219-01': [], '240240-02': [], '230737-05': []}
+2024-12-11 13:45:28,329 - INFO - Script execution completed.
+2024-12-11 13:53:40,186 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-12-11 13:53:43,956 - WARNING - No job number found in C:\Photos-repo\preprocess\IMG_6877.jpg
+2024-12-11 13:53:43,956 - WARNING - No job number detected for IMG_6877.jpg
+2024-12-11 13:54:14,940 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_6878.JPG: 240242-01
+2024-12-11 13:54:46,023 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_6879.JPG: 73738062
+2024-12-11 13:55:18,172 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_6901.JPG: 240242-01
+2024-12-11 13:55:19,890 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_6902.jpg: 240242-01
+2024-12-11 13:55:51,337 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_6981.JPG: 240219-01
+2024-12-11 13:56:29,559 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_7008.JPG: 240219-01
+2024-12-11 13:56:47,999 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_7010.JPG: 240219-01
+2024-12-11 13:56:48,010 - INFO - Processed 4 photos for job number 240242-01
+2024-12-11 13:56:48,014 - INFO - Processed 3 photos for job number 240219-01
+2024-12-11 13:56:48,014 - INFO - Photo processing completed.
+2024-12-11 14:02:20,977 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-12-11 14:02:24,187 - WARNING - No valid job number detected for C:\Photos-repo\preprocess\IMG_6877.jpg
+2024-12-11 14:02:50,031 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_6878.JPG: 240242-01
+2024-12-11 14:03:16,747 - WARNING - No valid job number detected for C:\Photos-repo\preprocess\IMG_6879.JPG
+2024-12-11 14:03:41,817 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_6901.JPG: 240242-01
+2024-12-11 14:03:43,295 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_6902.jpg: 240242-01
+2024-12-11 14:04:08,578 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_6981.JPG: 240219-01
+2024-12-11 14:04:36,880 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_7008.JPG: 240219-01
+2024-12-11 14:04:52,454 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_7010.JPG: 240219-01
+2024-12-11 14:04:52,458 - INFO - Processed 3 photos for job number 240242-01
+2024-12-11 14:04:52,460 - INFO - Processed 3 photos for job number 240219-01
+2024-12-11 14:04:52,460 - INFO - Photo processing completed.
+2024-12-11 14:04:52,464 - INFO - Validation results: {'240242-01': [], '240219-01': []}
+2024-12-11 14:04:52,465 - INFO - Script execution completed.
+2024-12-11 14:30:51,634 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-12-11 14:30:55,117 - WARNING - No valid job number detected for C:\Photos-repo\preprocess\IMG_6877.jpg
+2024-12-11 14:31:26,735 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_6878.JPG: 240242-01
+2024-12-11 14:31:52,948 - WARNING - No valid job number detected for C:\Photos-repo\preprocess\IMG_6879.JPG
+2024-12-11 14:32:17,999 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_6901.JPG: 240242-01
+2024-12-11 14:32:19,423 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_6902.jpg: 240242-01
+2024-12-11 14:32:19,438 - INFO - Processed 3 photos for job number 240242-01
+2024-12-11 14:32:19,439 - INFO - Photo processing completed.
+2024-12-11 14:32:19,559 - INFO - Validation results: {'240242-01': []}
+2024-12-11 14:32:19,559 - INFO - Script execution completed.
+2024-12-11 14:50:19,915 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-12-11 14:50:23,393 - WARNING - No valid job number detected for C:\Photos-repo\preprocess\IMG_6877.jpg
+2024-12-11 14:50:58,207 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_6878.JPG: 240242-01
+2024-12-11 14:51:26,345 - WARNING - No valid job number detected for C:\Photos-repo\preprocess\IMG_6879.JPG
+2024-12-11 14:51:52,133 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_6901.JPG: 240242-01
+2024-12-11 14:51:53,538 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_6902.jpg: 240242-01
+2024-12-11 14:51:53,544 - INFO - Post-processing unrecognized photos...
+2024-12-11 14:51:53,545 - INFO - Assigned IMG_6879.JPG to job 240242-01 based on sequence
+2024-12-11 14:51:53,550 - INFO - Processed 4 photos for job number 240242-01
+2024-12-11 14:51:53,550 - INFO - Photo processing completed.
+2024-12-11 14:51:53,651 - INFO - Validation results: {'240242-01': []}
+2024-12-11 14:51:53,651 - INFO - Script execution completed.
+2024-12-11 15:06:40,304 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-12-11 15:06:43,709 - WARNING - No valid job number detected for C:\Photos-repo\preprocess\IMG_6877.jpg
+2024-12-11 15:07:17,041 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_6878.JPG: 240242-01
+2024-12-11 15:07:45,298 - WARNING - No valid job number detected for C:\Photos-repo\preprocess\IMG_6879.JPG
+2024-12-11 15:08:10,989 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_6901.JPG: 240242-01
+2024-12-11 15:08:12,543 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_6902.jpg: 240242-01
+2024-12-11 15:08:12,552 - INFO - Post-processing unrecognized photos...
+2024-12-11 15:08:12,554 - INFO - Assigned IMG_6879.JPG to job 240242-01 based on sequence
+2024-12-11 15:08:12,572 - INFO - Processed 4 photos for job number 240242-01
+2024-12-11 15:08:12,572 - INFO - Photo processing completed.
+2024-12-11 15:08:12,650 - INFO - Validation results: {'240242-01': []}
+2024-12-11 15:08:12,651 - INFO - Script execution completed.
+2024-12-11 15:13:19,105 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-12-11 15:13:22,580 - WARNING - No valid job number detected for C:\Photos-repo\preprocess\IMG_6877.jpg
+2024-12-11 15:13:49,761 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_6878.JPG: 240242-01
+2024-12-11 15:14:15,838 - WARNING - No valid job number detected for C:\Photos-repo\preprocess\IMG_6879.JPG
+2024-12-11 15:14:45,308 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_6901.JPG: 240242-01
+2024-12-11 15:14:47,133 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_6902.jpg: 240242-01
+2024-12-11 15:14:47,135 - INFO - Post-processing unrecognized photos...
+2024-12-11 15:14:47,136 - INFO - Assigned IMG_6879.JPG to job 240242-01 based on sequence
+2024-12-11 15:14:47,144 - INFO - Processed 4 photos for job number 240242-01
+2024-12-11 15:14:47,145 - INFO - Photo processing completed.
+2024-12-11 15:14:47,166 - INFO - Validation results: {'240242-01': []}
+2024-12-11 15:14:47,167 - INFO - Script execution completed.
+2024-12-11 15:21:33,596 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-12-11 15:22:07,524 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_6931.JPG: 240219-02
+2024-12-11 15:22:32,715 - WARNING - No valid job number detected for C:\Photos-repo\preprocess\IMG_6932.JPG
+2024-12-11 15:22:58,196 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_6961.JPG: 240219-02
+2024-12-11 15:23:22,400 - WARNING - No valid job number detected for C:\Photos-repo\preprocess\IMG_6962.JPG
+2024-12-11 15:23:53,259 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_6963.JPG: 240219-02
+2024-12-11 15:24:22,433 - WARNING - No valid job number detected for C:\Photos-repo\preprocess\IMG_6982.JPG
+2024-12-11 15:24:51,300 - WARNING - No valid job number detected for C:\Photos-repo\preprocess\IMG_7009.JPG
+2024-12-11 15:25:16,189 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_7095.JPG: 240240-02
+2024-12-11 15:25:43,317 - WARNING - No valid job number detected for C:\Photos-repo\preprocess\IMG_7096.JPG
+2024-12-11 15:26:06,993 - WARNING - No valid job number detected for C:\Photos-repo\preprocess\IMG_7106.JPG
+2024-12-11 15:26:31,336 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_7107.JPG: 240240-02
+2024-12-11 15:26:55,086 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_7318.JPG: 230737-05
+2024-12-11 15:27:19,362 - WARNING - No valid job number detected for C:\Photos-repo\preprocess\IMG_7319.JPG
+2024-12-11 15:27:43,666 - WARNING - No valid job number detected for C:\Photos-repo\preprocess\IMG_7376.JPG
+2024-12-11 15:28:07,933 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_7377.JPG: 230737-05
+2024-12-11 15:28:07,936 - INFO - Post-processing unrecognized photos...
+2024-12-11 15:28:07,937 - INFO - Assigned IMG_6932.JPG to job 240219-02 based on sequence
+2024-12-11 15:28:07,937 - INFO - Assigned IMG_6962.JPG to job 240219-02 based on sequence
+2024-12-11 15:28:07,938 - INFO - Assigned IMG_7096.JPG to job 240240-02 based on sequence
+2024-12-11 15:28:07,938 - INFO - Assigned IMG_7106.JPG to job 240240-02 based on sequence
+2024-12-11 15:28:07,938 - INFO - Assigned IMG_7319.JPG to job 230737-05 based on sequence
+2024-12-11 15:28:07,939 - INFO - Assigned IMG_7376.JPG to job 230737-05 based on sequence
+2024-12-11 15:28:07,947 - INFO - Processed 5 photos for job number 240219-02
+2024-12-11 15:28:07,952 - INFO - Processed 4 photos for job number 240240-02
+2024-12-11 15:28:07,955 - INFO - Processed 4 photos for job number 230737-05
+2024-12-11 15:28:07,955 - INFO - Photo processing completed.
+2024-12-11 15:28:07,996 - INFO - Validation results: {'240219-02': [], '240240-02': [], '230737-05': []}
+2024-12-11 15:28:07,997 - INFO - Script execution completed.
+2024-12-11 15:37:18,187 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-12-11 15:37:48,600 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_6931.JPG: 240219-02
+2024-12-11 15:38:13,109 - WARNING - No valid job number detected for C:\Photos-repo\preprocess\IMG_6932.JPG
+2024-12-11 15:38:36,776 - WARNING - No valid job number detected for C:\Photos-repo\preprocess\IMG_6962.JPG
+2024-12-11 15:39:02,254 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_6963.JPG: 240219-02
+2024-12-11 15:39:27,824 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_6981.JPG: 240219-01
+2024-12-11 15:39:52,552 - WARNING - No valid job number detected for C:\Photos-repo\preprocess\IMG_6982.JPG
+2024-12-11 15:40:21,239 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_7008.JPG: 240219-01
+2024-12-11 15:40:45,650 - WARNING - No valid job number detected for C:\Photos-repo\preprocess\IMG_7009.JPG
+2024-12-11 15:41:01,583 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_7010.JPG: 240219-01
+2024-12-11 15:41:01,585 - INFO - Post-processing unrecognized photos...
+2024-12-11 15:41:01,586 - INFO - Assigned IMG_6932.JPG to job 240219-02 based on sequence
+2024-12-11 15:41:01,586 - INFO - Assigned IMG_6962.JPG to job 240219-02 based on sequence
+2024-12-11 15:41:01,586 - INFO - Assigned IMG_6982.JPG to job 240219-01 based on sequence
+2024-12-11 15:41:01,586 - INFO - Assigned IMG_7009.JPG to job 240219-01 based on sequence
+2024-12-11 15:41:01,593 - INFO - Processed 4 photos for job number 240219-02
+2024-12-11 15:41:01,598 - INFO - Processed 5 photos for job number 240219-01
+2024-12-11 15:41:01,598 - INFO - Photo processing completed.
+2024-12-11 15:41:01,616 - INFO - Validation results: {'240219-02': [], '240219-01': []}
+2024-12-11 15:41:01,616 - INFO - Script execution completed.
+2024-12-11 15:52:56,867 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-12-11 15:52:59,069 - ERROR - An unexpected error occurred: 'NoneType' object is not iterable
+2024-12-11 15:52:59,070 - INFO - Script execution completed.
+2024-12-12 08:52:10,156 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-12-12 08:52:11,685 - ERROR - An unexpected error occurred: 'NoneType' object is not iterable
+2024-12-12 08:52:11,685 - INFO - Script execution completed.
+2024-12-12 08:59:06,821 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-12-12 08:59:08,155 - ERROR - An unexpected error occurred: 'NoneType' object is not iterable
+2024-12-12 08:59:08,156 - INFO - Script execution completed.
+2024-12-12 09:07:31,424 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-12-12 09:07:32,760 - ERROR - An unexpected error occurred: 'NoneType' object is not iterable
+2024-12-12 09:07:32,760 - INFO - Script execution completed.
+2024-12-12 09:08:07,277 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-12-12 09:08:08,559 - ERROR - An unexpected error occurred: 'NoneType' object is not iterable
+2024-12-12 09:08:08,559 - INFO - Script execution completed.
+2024-12-12 09:39:33,382 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-12-12 09:39:35,711 - ERROR - An unexpected error occurred: 'NoneType' object is not iterable
+2024-12-12 09:39:35,711 - INFO - Script execution completed.
+2024-12-12 09:48:53,265 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-12-12 09:48:54,996 - ERROR - An unexpected error occurred: 'NoneType' object is not iterable
+2024-12-12 09:48:54,996 - INFO - Script execution completed.
+2024-12-12 10:17:50,191 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-12-12 10:17:51,865 - ERROR - An unexpected error occurred: 'NoneType' object is not iterable
+2024-12-12 10:17:51,866 - INFO - Script execution completed.
+2024-12-12 10:44:15,572 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-12-12 10:44:17,354 - ERROR - An unexpected error occurred: 'NoneType' object is not iterable
+2024-12-12 10:44:17,354 - INFO - Script execution completed.
+2024-12-12 10:47:43,885 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-12-12 10:47:45,320 - ERROR - An unexpected error occurred: 'NoneType' object is not iterable
+2024-12-12 10:47:45,320 - INFO - Script execution completed.
+2024-12-12 10:56:00,444 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-12-12 10:56:01,768 - ERROR - An unexpected error occurred: 'NoneType' object is not iterable
+2024-12-12 10:56:01,768 - INFO - Script execution completed.
+2024-12-12 11:08:55,190 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-12-12 11:08:56,544 - ERROR - An unexpected error occurred: 'NoneType' object is not iterable
+2024-12-12 11:08:56,544 - INFO - Script execution completed.
+2024-12-12 11:09:25,350 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-12-12 11:09:26,636 - ERROR - An unexpected error occurred: 'NoneType' object is not iterable
+2024-12-12 11:09:26,636 - INFO - Script execution completed.
+2024-12-12 11:16:50,349 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-12-12 11:16:52,272 - WARNING - No job number found in C:\Photos-repo\preprocess\IMG_6877.jpg
+2024-12-12 11:16:52,272 - WARNING - No job number detected for IMG_6877.jpg
+2024-12-12 11:17:12,185 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_6878.JPG: 240242-01
+2024-12-12 13:09:26,947 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-12-12 13:09:28,508 - ERROR - An unexpected error occurred: 'NoneType' object is not iterable
+2024-12-12 13:09:28,509 - INFO - Script execution completed.
+2024-12-12 14:34:20,068 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-12-12 14:34:21,596 - ERROR - An unexpected error occurred: 'NoneType' object is not iterable
+2024-12-12 14:34:21,597 - INFO - Script execution completed.
+2024-12-12 14:35:37,171 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-12-12 14:35:38,455 - ERROR - An unexpected error occurred: 'NoneType' object is not iterable
+2024-12-12 14:35:38,455 - INFO - Script execution completed.
+2024-12-12 15:10:51,646 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-12-12 15:10:53,210 - ERROR - TypeError occurred: 'NoneType' object is not iterable
+2024-12-12 15:10:53,211 - ERROR - Error occurred in function: <module>
+2024-12-12 15:10:53,211 - INFO - Script execution completed.
+2024-12-12 15:15:40,034 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-12-12 15:15:41,412 - ERROR - TypeError occurred: name 'process_single_image' is not defined
+2024-12-12 15:15:41,412 - ERROR - Error occurred in function: __main__
+2024-12-12 15:15:41,412 - INFO - Script execution completed.
+2024-12-12 15:16:29,937 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-12-12 15:16:31,846 - WARNING - No job number found in C:\Photos-repo\preprocess\IMG_6877.jpg
+2024-12-12 15:16:31,847 - WARNING - No valid job number detected for False
+2024-12-12 15:16:51,135 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_6878.JPG: 240242-01
+2024-12-12 15:16:51,143 - ERROR - TypeError occurred: expected str, bytes or os.PathLike object, not bool
+2024-12-12 15:16:51,143 - ERROR - Error occurred in function: __main__
+2024-12-12 15:16:51,144 - INFO - Script execution completed.
+2024-12-12 15:18:48,615 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-12-12 15:18:50,011 - ERROR - An unexpected error occurred: name 'process_single_image' is not defined
+2024-12-12 15:18:50,011 - ERROR - Error occurred in function: __main__
+2024-12-12 15:18:50,011 - INFO - Script execution completed.
+2024-12-12 15:19:10,330 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-12-12 15:19:12,113 - WARNING - No job number found in C:\Photos-repo\preprocess\IMG_6877.jpg
+2024-12-12 15:19:12,113 - WARNING - No valid job number detected for IMG_6877.jpg
+2024-12-12 15:19:27,874 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_6878.JPG: 240242-01
+2024-12-12 15:19:27,876 - INFO - Job number found in True: 240242-01
+2024-12-12 15:19:46,292 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_6879.JPG: 73738062
+2024-12-12 15:19:46,293 - WARNING - No valid job number detected for IMG_6879.JPG
+2024-12-12 15:20:04,453 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_6901.JPG: 240242-01
+2024-12-12 15:20:04,454 - INFO - Job number found in True: 240242-01
+2024-12-12 15:20:05,420 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_6902.jpg: 240242-01
+2024-12-12 15:20:05,420 - INFO - Job number found in True: 240242-01
+2024-12-12 15:20:23,713 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_6981.JPG: 240219-01
+2024-12-12 15:20:23,715 - INFO - Job number found in True: 240219-01
+2024-12-12 15:20:41,379 - WARNING - No job number found in C:\Photos-repo\preprocess\IMG_6982.JPG
+2024-12-12 15:20:41,380 - WARNING - No valid job number detected for IMG_6982.JPG
+2024-12-12 15:21:02,450 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_7008.JPG: 240219-01
+2024-12-12 15:21:02,451 - INFO - Job number found in True: 240219-01
+2024-12-12 15:21:21,353 - WARNING - No job number found in C:\Photos-repo\preprocess\IMG_7009.JPG
+2024-12-12 15:21:21,354 - WARNING - No valid job number detected for IMG_7009.JPG
+2024-12-12 15:21:33,248 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_7010.JPG: 240219-01
+2024-12-12 15:21:33,249 - INFO - Job number found in True: 240219-01
+2024-12-12 15:21:33,249 - WARNING - No jobs were processed
+2024-12-12 15:21:33,249 - INFO - Script execution completed.
+2024-12-12 15:56:03,092 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-12-12 15:56:05,006 - WARNING - No job number found in C:\Photos-repo\preprocess\IMG_6877.jpg
+2024-12-12 15:56:05,006 - WARNING - No valid job number detected for IMG_6877.jpg
+2024-12-12 15:56:21,949 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_6878.JPG: 240242-01
+2024-12-12 15:56:21,955 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_6878.JPG: 240242-01
+2024-12-12 15:56:38,271 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_6879.JPG: 73738062
+2024-12-12 15:56:38,275 - WARNING - No valid job number detected for IMG_6879.JPG
+2024-12-12 15:56:54,423 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_6901.JPG: 240242-01
+2024-12-12 15:56:54,424 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_6901.JPG: 240242-01
+2024-12-12 15:56:55,452 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_6902.jpg: 240242-01
+2024-12-12 15:56:55,452 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_6902.jpg: 240242-01
+2024-12-12 15:57:11,896 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_6981.JPG: 240219-01
+2024-12-12 15:57:11,897 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_6981.JPG: 240219-01
+2024-12-12 15:57:27,664 - WARNING - No job number found in C:\Photos-repo\preprocess\IMG_6982.JPG
+2024-12-12 15:57:27,664 - WARNING - No valid job number detected for IMG_6982.JPG
+2024-12-12 15:57:45,531 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_7008.JPG: 240219-01
+2024-12-12 15:57:45,531 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_7008.JPG: 240219-01
+2024-12-12 15:58:01,005 - WARNING - No job number found in C:\Photos-repo\preprocess\IMG_7009.JPG
+2024-12-12 15:58:01,006 - WARNING - No valid job number detected for IMG_7009.JPG
+2024-12-12 15:58:11,052 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_7010.JPG: 240219-01
+2024-12-12 15:58:11,053 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_7010.JPG: 240219-01
+2024-12-12 15:58:11,057 - WARNING - No jobs were processed
+2024-12-12 15:58:11,057 - INFO - Script execution completed.
+2024-12-12 16:03:01,222 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-12-12 16:03:03,234 - WARNING - No job number found in C:\Photos-repo\preprocess\IMG_6877.jpg
+2024-12-12 16:03:03,234 - ERROR - TypeError occurred: expected string or bytes-like object, got 'tuple'
+2024-12-12 16:03:03,234 - INFO - Script execution completed.
+2024-12-12 16:15:51,612 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-12-12 16:15:53,421 - WARNING - No job number found in C:\Photos-repo\preprocess\IMG_6877.jpg
+2024-12-12 16:15:53,421 - WARNING - No valid job number detected for IMG_6877.jpg
+2024-12-12 16:16:08,325 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_6878.JPG: 240242-01
+2024-12-12 16:16:08,328 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_6878.JPG: 240242-01
+2024-12-12 16:16:23,133 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_6879.JPG: 73738062
+2024-12-12 16:16:23,134 - WARNING - No valid job number detected for IMG_6879.JPG
+2024-12-12 16:16:37,905 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_6901.JPG: 240242-01
+2024-12-12 16:16:37,906 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_6901.JPG: 240242-01
+2024-12-12 16:16:38,750 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_6902.jpg: 240242-01
+2024-12-12 16:16:38,750 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_6902.jpg: 240242-01
+2024-12-12 16:16:55,385 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_6981.JPG: 240219-01
+2024-12-12 16:16:55,386 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_6981.JPG: 240219-01
+2024-12-12 16:17:11,214 - WARNING - No job number found in C:\Photos-repo\preprocess\IMG_6982.JPG
+2024-12-12 16:17:11,215 - WARNING - No valid job number detected for IMG_6982.JPG
+2024-12-12 16:17:29,281 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_7008.JPG: 240219-01
+2024-12-12 16:17:29,282 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_7008.JPG: 240219-01
+2024-12-12 16:17:44,553 - WARNING - No job number found in C:\Photos-repo\preprocess\IMG_7009.JPG
+2024-12-12 16:17:44,554 - WARNING - No valid job number detected for IMG_7009.JPG
+2024-12-12 16:17:54,805 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_7010.JPG: 240219-01
+2024-12-12 16:17:54,805 - INFO - Job number found in C:\Photos-repo\preprocess\IMG_7010.JPG: 240219-01
+2024-12-12 16:17:54,807 - INFO - Post-processing unrecognized photos...
+2024-12-12 16:17:54,807 - INFO - Assigned IMG_6879.JPG to job 240242-01 based on sequence
+2024-12-12 16:17:54,807 - INFO - Assigned IMG_6982.JPG to job 240219-01 based on sequence
+2024-12-12 16:17:54,807 - INFO - Assigned IMG_7009.JPG to job 240219-01 based on sequence
+2024-12-12 16:17:54,807 - INFO - Validating photo groupings...
+2024-12-12 16:17:54,807 - INFO - Validation results: {'240242-01': [], '240219-01': []}
+2024-12-12 16:17:54,807 - INFO - Moving photos to job folders...
+2024-12-12 16:17:54,809 - INFO - Processed 4 photos for job number 240242-01
+2024-12-12 16:17:54,811 - INFO - Processed 5 photos for job number 240219-01
+2024-12-12 16:17:54,811 - INFO - Photo processing completed.
+2024-12-12 16:17:54,811 - INFO - Validation results: {'240242-01': [], '240219-01': []}
+2024-12-12 16:17:54,811 - INFO - Script execution completed.
